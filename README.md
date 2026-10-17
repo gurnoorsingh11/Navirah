@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Navirah Innovations redesign
+
+# Navirah
 
 A professional, responsive Next.js rebuild with editable content, a project-scoping wizard, server-side validation and Postgres-backed form submissions.
 
@@ -47,4 +47,4 @@ Edit `lib/content.ts` to add or update team members, services and capability/pro
 - Run `npm run build`, test all form states and verify production deployment/rollback.
 =======
 # Navirah
->>>>>>> 73fbbd9af5241b22efa31e3a4bf346ccadccb9c2
+
